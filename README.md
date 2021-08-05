@@ -1,6 +1,6 @@
 - 🍑 Hi, I’m @anilovg
 - 🌞 I’m from Uruguay
-- 🌸 I’m currently learning programming
+- 🌸 I’m currently learning web development
 - 🐈‍ I love cats
 
 <!---
